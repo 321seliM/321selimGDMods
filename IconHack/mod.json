@@ -1,0 +1,95 @@
+{
+	"geode": "5.0.0",
+	"gd": {
+		"win": "2.2081",
+		"android": "2.2081",
+		"mac": "2.2081",
+		"ios": "2.2081"
+	},
+	"id": "321selim.iconhack",
+	"name": "Icon Hack",
+	"version": "v1.0.0",
+	"developer": "321seliM",
+	"description": "Just a simple mod to unlock icons.",
+	"settings": {
+		"Unlock": {
+			"type": "title",
+			"name": "Unlock:"
+		},
+		"Colors": {
+			"type": "bool",
+			"name": "Colors",
+			"default": true
+		},
+		"Cubes": {
+			"type": "bool",
+			"name": "Cubes",
+			"default": true
+		},
+		"Ships": {
+			"type": "bool",
+			"name": "Ships",
+			"default": true
+		},
+		"Balls": {
+			"type": "bool",
+			"name": "Balls",
+			"default": true
+		},
+		"Ufos": {
+			"type": "bool",
+			"name": "Ufos",
+			"default": true
+		},
+		"Waves": {
+			"type": "bool",
+			"name": "Waves",
+			"default": true
+		},
+		"Robots": {
+			"type": "bool",
+			"name": "Robots",
+			"default": true
+		},
+		"Spiders": {
+			"type": "bool",
+			"name": "Spiders",
+			"default": true
+		},
+		"Swings": {
+			"type": "bool",
+			"name": "Swings",
+			"default": true
+		},
+		"Jetpacks": {
+			"type": "bool",
+			"name": "Jetpacks",
+			"default": true
+		},
+		"Trails": {
+			"type": "bool",
+			"name": "Trails",
+			"default": true
+		},
+		"Ship Fires": {
+			"type": "bool",
+			"name": "Ship Fires",
+			"default": true
+		},
+		"Animations": {
+			"type": "bool",
+			"name": "Animations",
+			"default": true
+		},
+		"Death Effects": {
+			"type": "bool",
+			"name": "Death Effects",
+			"default": true
+		},
+		"Unobtainable Icons": {
+			"type": "bool",
+			"name": "Unobtainable Icons",
+			"default": true
+		}
+	}
+}
