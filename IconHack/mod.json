@@ -11,6 +11,7 @@
 	"version": "v1.0.0",
 	"developer": "321seliM",
 	"description": "Just a simple mod to unlock icons.",
+	"tags": [ "cheat", "customization" ],
 	"settings": {
 		"Unlock": {
 			"type": "title",
