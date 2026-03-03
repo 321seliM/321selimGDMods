@@ -8,9 +8,10 @@
 	},
 	"id": "321selim.iconhack",
 	"name": "Icon Hack",
-	"version": "v1.0.0",
+	"version": "v1.0.1",
 	"developer": "321seliM",
 	"description": "Just a simple mod to unlock icons.",
+	"early-load":  true,
 	"tags": [ "cheat", "customization" ],
 	"settings": {
 		"Unlock": {

@@ -1,2 +1,2 @@
-# 1.0.0
-There haven't been any updates yet.
+# 1.0.1
+Fixed a bug where your icons would change when you load in to the game.
